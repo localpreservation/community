@@ -1,6 +1,6 @@
 ---
 title: "Growing Networks"
-permalink: /growing-networks/
+permalink: /guides/growing-networks/
 ---
 
 ## How do you get started?

@@ -1,6 +1,6 @@
 ---
 title: "Starting Coalitions"
-permalink: /starting-coalitions/
+permalink: /guides/starting-coalitions/
 ---
 
 ## How To Get Started

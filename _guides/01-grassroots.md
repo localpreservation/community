@@ -1,6 +1,6 @@
 ---
 title: "Grassroots Networks"
-permalink: /grassroots-networks/
+permalink: /guides/grassroots-networks/
 ---
 
 ## Developing a Grassroots Network

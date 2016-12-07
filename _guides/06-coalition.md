@@ -1,6 +1,6 @@
 ---
 title: "Successful Coalitions"
-permalink: /successful-coalitions/
+permalink: /guides/successful-coalitions/
 ---
 
 Successful advocacy coalitions take hard work, but the results are worth the investment of time and energy. One such coalition, the Preservation Coalition of Massachusetts, sought an economic incentive that would benefit historic buildings within the Commonwealth.

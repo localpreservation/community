@@ -1,6 +1,6 @@
 ---
 title: "Sustaining Networks"
-permalink: /sustaining-networks/
+permalink: /guides/sustaining-networks/
 ---
 
 ## Conclusion
