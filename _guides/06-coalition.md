@@ -1,6 +1,10 @@
 ---
 title: "Successful Coalitions"
 permalink: /guides/successful-coalitions/
+header:
+  overlay_image: https://cdn.loc.gov/service/pnp/highsm/20900/20958v.jpg
+  overlay_filter: "0.5"
+  caption: "The Golden Gate Bridge, San Francisco, California, 2012. Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2013630386/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))"
 ---
 
 Successful advocacy coalitions take hard work, but the results are worth the investment of time and energy. One such coalition, the Preservation Coalition of Massachusetts, sought an economic incentive that would benefit historic buildings within the Commonwealth.
@@ -14,16 +18,14 @@ Renee Viers Kuhlman is the former associate director of Public Policy at the Nat
 - [Coalition Building I: Starting a Coalition](http://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main)
 - [Building Effective Coalitions](https://www.hudexchange.info/resources/documents/BuildingEffectiveCoalitions.pdf) (May 2009), HUD’s Homeless Assistance Programs.
 - [Partnerships: Frameworks for Working Together](http://www.strengtheningnonprofits.org/resources/guidebooks/Partnerships.pdf) (2010)
-- Getting to Yes: Negotiating Agreement Without Giving In by Roger Fisher and William L. Ury www.amazon.com
+- [Getting to Yes: Negotiating Agreement Without Giving In](https://en.wikipedia.org/wiki/Getting_to_Yes) by Roger Fisher and William L. Ury
 
 ### Examples of Coalitions
 
 - [Georgians for Preservation Action](http://www.georgiatrust.org/what/georgians_for_preservation_action.php)
 - [Massachusetts Preservation Coalition](http://www.preservationmass.org/preservation-coalition)
 
-Structural Racism and Multiracial Coalition Building
-A Report to the Annie E. Casey Foundation
-November 2003
-http://www.centerforsocialinclusion.org/wp-content/uploads/2012/08/Structural-Racism-and-Multiracial-Coalition-Building.pdf
+### Resources on Coalitions
 
-https://www.councilofnonprofits.org/sites/default/files/documents/07_coalitions.pdf
+- [Structural Racism and Multiracial Coalition Building](http://www.centerforsocialinclusion.org/wp-content/uploads/2012/08/Structural-Racism-and-Multiracial-Coalition-Building.pdf), Annie E. Casey Foundation, November 2003
+- [Working in Coalitions](https://www.councilofnonprofits.org/sites/default/files/documents/07_coalitions.pdf), Center for Lobbying in the Public Interest

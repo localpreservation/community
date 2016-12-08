@@ -1,11 +1,17 @@
 ---
 title: "Sustaining Networks"
 permalink: /guides/sustaining-networks/
+header:
+  overlay_image: https://cdn.loc.gov/service/pnp/highsm/13800/13848v.jpg
+  overlay_filter: "0.5"
+  caption: "Rooftop detail of Old Main train station in Richmond, Virginia. Carol M. Highsmith. [Library of Congress](https://www.loc.gov/pictures/item/2011632042/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))"
 ---
 
 ## Conclusion
 
-To ensure passage or adoption of preservation policies, building and strengthening a grassroots network should be an ongoing process. Taking part in advocacy efforts on the local, state, and federal level is a great way to keep in touch with the needs and priorities of preservationists. There is no limit to what can be accomplished with a strong grassroots network that understands and can advocate on behalf of the importance of historic preservation.
+To ensure passage or adoption of preservation policies, building and strengthening a grassroots network should be an ongoing process. Taking part in advocacy efforts on the local, state, and federal level is a great way to keep in touch with the needs and priorities of preservationists.
+
+There is no limit to what can be accomplished with a strong grassroots network that understands and can advocate on behalf of the importance of historic preservation.
 
 ## Examples
 
@@ -17,10 +23,6 @@ As part of a wide-ranging advocacy campaign, this advertisement helped defeat a 
 
 ## Resources and Links
 
-A Blueprint for Lobbying
-by Susan West Montgomery
-National Trust for Historic Preservation www.preservationbooks.org
-Advocacy Guru
-Advocacy Associates, LLC. www.advocacyguru.com
-Effective Communications for Preservation Nonprofit Organizations
-by Richard McPherson, Debra Ashmore, and Timothy Oleary National Trust for Historic Preservation www.preservationbooks.org
+- A Blueprint for Lobbying by Susan West Montgomery
+- Advocacy Guru, Advocacy Associates, LLC. www.advocacyguru.com
+- Effective Communications for Preservation Nonprofit Organizations by Richard McPherson, Debra Ashmore, and Timothy Oleary

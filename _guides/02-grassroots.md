@@ -1,6 +1,10 @@
 ---
 title: "Growing Networks"
 permalink: /guides/growing-networks/
+header:
+  overlay_image: https://cdn.loc.gov/service/pnp/highsm/32300/32326v.jpg
+  overlay_filter: "0.5"
+  caption: "Pueblo Union Depot in Pueblo, Colorado, 2015 May 24. Carol M. Highsmith. [Library of Congress](https://www.loc.gov/pictures/item/2015632341/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))"
 ---
 
 ## How do you get started?
@@ -84,7 +88,7 @@ A newsletter can provide in-depth coverage on an issue and status updates. Cover
 
 **Electronic Alert**
 
-Electronic alerts are a type of e-mail that can be used to call advocates into action.
+Electronic alerts are a type of email that can be used to call advocates into action.
 
 **Feedback**
 

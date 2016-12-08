@@ -1,6 +1,10 @@
 ---
 title: "Starting Coalitions"
 permalink: /guides/starting-coalitions/
+header:
+  overlay_image: https://cdn.loc.gov/service/pnp/highsm/04900/04985v.jpg
+  overlay_filter: "0.5"
+  caption: "Howard Street Bridge, Baltimore, Maryland, 2008 November 1. Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2010630964/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))"
 ---
 
 ## How To Get Started
@@ -10,7 +14,7 @@ Before creating or joining a coalition to work on a public policy issue, talk th
 The following suggestions will help you create an effective advocacy coalition.
 Identify possible coalition partners and evaluate their potential. Not surprisingly, preservationists have allies in many different fields. Consider approaching other types of organizations in addition to the typical preservation partners such as architects, developers, and planners, when planning a coalition. For example, landscape architects, historical societies, chambers of commerce, smart growth advocates, and environmentalists all share common interests and goals with historic preservationists.
 
-Photo caption: National Trust President meets with Massachusetts Preservation Coalition members in December 2006 to discuss capitalizing on their successful campaign to increase of the state rehabilitation tax credit cap from $10 million to $50 million. Photo by Erin D. A. Kelly.
+<!-- FIXME: Missing photo. National Trust President meets with Massachusetts Preservation Coalition members in December 2006 to discuss capitalizing on their successful campaign to increase of the state rehabilitation tax credit cap from $10 million to $50 million. Photo by Erin D. A. Kelly. -->
 
 The list of potential partners depends on each situation and may change over time, so brainstorm new partnership opportunities periodically. You might partner with a group during a specific legislative campaign and then find yourself partnering in the future with someone who took the opposite side in the previous campaign. Although there will always be someone or some groups opposed to your issue, remember that you might find them as allies down the road. Be careful not to burn bridges, even if there are disagreements.
 
@@ -120,4 +124,4 @@ Coalitions can also get unwieldy when they grow too large. Consider having diffe
 
 Even though a coalition agrees upon a common communications message, advocacy materials can still be targeted to reach specific audiences or geographic areas.
 
- The Landmark Society of Utica, a member of the Preservation League of New York State’s coalition, prepared a fact sheet that describes how expanding the current state rehabilitation tax credit would help renovate the 1928 Stanley Theater. In addition to showing the location of the historic building on a map, the fact sheet also includes the names of the state assemblymen and senator representing the neighborhood where the theater is located. Courtesy of Preservation League of New York State.
+ The [Landmark Society of Greater Utica](http://uticalandmarks.org/), a member of the Preservation League of New York State’s coalition, prepared a fact sheet that describes how expanding the current state rehabilitation tax credit would help renovate the 1928 Stanley Theater. In addition to showing the location of the historic building on a map, the fact sheet also includes the names of the state assemblymen and senator representing the neighborhood where the theater is located. Courtesy of Preservation League of New York State.

@@ -1,6 +1,10 @@
 ---
 title: "Grassroots Networks"
 permalink: /guides/grassroots-networks/
+header:
+  overlay_image: http://cdn.loc.gov/service/pnp/highsm/15200/15238v.jpg
+  overlay_filter: "0.5"
+  caption: "Aerial view of Washington, D.C.'s Union Station, looking north. Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2011633431/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))"
 ---
 
 ## Developing a Grassroots Network
@@ -13,4 +17,12 @@ Grassroots advocacy is collective citizen action to influence decision makers. I
 
 ## Why a Grassroots Network Is Important
 
-Building a grassroots network is a key element to promoting preservation policies. First, there is truth to the saying that there is strength in numbers. If preservation has popular support and is seen as a priority to the general public, then elected officials will be more likely to take it into consideration when acting on policy measures. Having a large number and wide range of supporters lends credibility to the preservation policy for which you are advocating. A strong grassroots network will also help to build the preservation movement by engaging new audiences. People are more likely to become involved in preservation when they are aware that advocating on behalf of a specific issue will have a positive impact on the quality of life in their community. A grassroots network that can be counted on for quick action is also helpful when potential threats arise to historic and cultural resources. Finally, developing a grassroots network empowers people by helping to exercise their voice in the political process.
+Building a grassroots network is a key element to promoting preservation policies.
+
+First, there is truth to the saying that there is strength in numbers. If preservation has popular support and is seen as a priority to the general public, then elected officials will be more likely to take it into consideration when acting on policy measures. Having a large number and wide range of supporters lends credibility to the preservation policy for which you are advocating.
+
+A strong grassroots network will also help to build the preservation movement by engaging new audiences. People are more likely to become involved in preservation when they are aware that advocating on behalf of a specific issue will have a positive impact on the quality of life in their community.
+
+A grassroots network that can be counted on for quick action is also helpful when potential threats arise to historic and cultural resources.
+
+Finally, developing a grassroots network empowers people by helping to exercise their voice in the political process.

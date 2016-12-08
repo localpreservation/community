@@ -1,6 +1,10 @@
 ---
 title: "Advocacy Coalitions"
 permalink: /guides/advocacy-coalitions/
+header:
+  overlay_image: https://cdn.loc.gov/service/pnp/highsm/07200/07258v.jpg
+  overlay_filter: "0.5"
+  caption: "The Edmund Pettus Bridge, Selma, Alabama, 2010 April 6. Carol M. Highsmith. Courtesy [Library of Congress](https://www.loc.gov/pictures/item/2010639087/) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))."
 ---
 
 Working with a coalition of advocates can greatly increase the chance of getting a preservation policy adopted or passed by a governmental body. Coalitions can also have a positive impact when organized for defensive reasons (e.g., protecting a historic site or an existing preservation policy). Identifying partners who can be of assistance and working with them in an equitable and responsible manner can increase the coalition’s stature in the eyes of elected officials as well as the public they serve.
