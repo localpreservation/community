@@ -3,7 +3,7 @@ title: "Community Preservation Guide"
 excerpt: "Learn how to build inclusive and diverse communities to support and advocate for historic preservation."
 permalink: /
 header:
-  overlay_image: Selma-21-1280.jpg
+  overlay_image: /assets/images/Selma-21-1280.jpg
   overlay_filter: "0.5"
   caption: "March across the Edmund Pettus Bridge in Selma, Alabama, 2015. [Official White House Photo by Pete Souza](https://www.whitehouse.gov/blog/2015/03/09/behind-lens-selma-50-years-later) ([PD](https://creativecommons.org/publicdomain/mark/1.0/))"
   cta_label: "About"

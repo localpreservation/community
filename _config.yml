@@ -5,16 +5,20 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+remote_theme             : "mmistakes/minimal-mistakes"
+
 # Site Settings
-locale                   : "en"
+locale                   : "en-US"
 title                    : "Community Preservation Guide"
 title_separator          : "-"
 name                     : "Local Preservation School"
 description              : "An open educational resource published by the Local Preservation School."
-url                      : https://localpreservation.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /community # the subpath of your site, e.g. "/blog"
-repository               : localpreservation/community # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /images/Selma-21-1280.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+url                      : "https://localpreservation.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/community" # the subpath of your site, e.g. "/blog"
+repository               : "localpreservation/community" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/Selma-21-1280.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -60,11 +64,11 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/Selma-21-1280.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : Organization # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -198,7 +202,7 @@ defaults:
       layout: single
       read_time: false
       author_profile: false
-      share: false
+      share: true
       comments: false
       sidebar:
         nav: "guides"
@@ -210,7 +214,7 @@ defaults:
       layout: single
       read_time: false
       author_profile: false
-      share: false
+      share: true
       comments: false
       sidebar:
         nav: "activities"
@@ -235,6 +239,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -243,7 +248,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-remote-theme
 
 # Archives
 #  Type
